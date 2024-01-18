@@ -50,9 +50,11 @@ Visualization:
 # Project Description: Enhancing User Experience through Digital Experiment Analysis at Vanguard
 
 Context:
+
 As newly onboarded data analyst in the Customer Experience (CX) team at Vanguard, a leading US-based investment management company, our inaugural task involves delving into the outcomes of an ambitious digital experiment undertaken by the team. In response to the dynamic evolution of the digital landscape and the changing expectations of Vanguard's clients, the CX team implemented enhancements in the form of a more intuitive and modern User Interface (UI). Coupled with timely in-context prompts, these changes were anticipated to streamline the online process for clients. The overarching question driving this initiative was whether these design modifications would effectively encourage a higher number of clients to successfully complete the online process.
 
 Experiment Overview:
+
 The experiment, conducted through A/B testing, spanned from 3/15/2017 to 6/20/2017. The participants were divided into two groups:
 
 - Control Group: Engaged with Vanguard's traditional online process.
@@ -61,6 +63,7 @@ The experiment, conducted through A/B testing, spanned from 3/15/2017 to 6/20/20
 Both groups traversed an identical process sequence, encompassing an initial page, three subsequent steps, and a confirmation page indicating process completion. The primary objective was to assess if the redesigned interface indeed contributed to an improved user experience and higher rates of successful process completion.
 
 Data Tools:
+
 To undertake a comprehensive analysis, three datasets will serve as our guiding compass:
 
 - Client Profiles (df_final_demo): This dataset encapsulates crucial demographic information such as age, gender, and account details of Vanguard's clients.
@@ -68,6 +71,7 @@ To undertake a comprehensive analysis, three datasets will serve as our guiding 
 - Experiment Roster (df_final_experiment_clients): This dataset reveals which clients were part of the grand experiment, segregating those exposed to the new digital interface.
 
 Project Goal:
+
 Our mission is to leverage these datasets to unravel insights that shed light on the impact of the UI enhancements on user experience and process completion rates. Through meticulous data analysis, we aim to provide actionable recommendations to optimize Vanguard's digital platforms and elevate overall client satisfaction.
 
 This project marks a pivotal step in understanding the dynamics of user interactions within the financial realm and contributes to Vanguard's commitment to delivering an exceptional digital experience to its clientele.
